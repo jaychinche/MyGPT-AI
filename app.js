@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 8002;
+const port = 8080;
 const path = require("path");
 
 const { GoogleGenerativeAI } = require("@google/generative-ai");
