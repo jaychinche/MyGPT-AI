@@ -1,4 +1,4 @@
-# MyGPT-AI
+# NeuroChat
 
 # Demo 
   Link :https://mygpt-ai-tj4q.onrender.com/
